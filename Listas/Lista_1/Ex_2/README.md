@@ -1,4 +1,4 @@
-## Exercício 1  
+## Exercício 2  
 
 Faça um programa que escreva na tela:  
 
