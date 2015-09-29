@@ -28,6 +28,6 @@ Use o método Math.sqrt() para obter a raiz quadrada.
 
 * d = distância percorrida pelo corpo em queda;
 
-## Dicas:
+### Dicas:
 
 Use a altura ao invés de centímetros, como pede o problema em metros. Assim facilita o cálculo e evita conversões.
