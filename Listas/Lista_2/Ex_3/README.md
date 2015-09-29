@@ -8,17 +8,17 @@ Considere que a força da gravidade é igual a 9,8m/s².
 
 Use o método Math.sqrt() para obter a raiz quadrada.
 
-** Fórmulas para auxiliar a resolução **
+**Fórmulas para auxiliar a resolução**
 
 `V = g * t`
 
 `d = g * t² / 2`
 
-** Desenvolvendo a 2ª fórmula: **
+**Desenvolvendo a 2ª fórmula:**
 
 `t² = 2 * d / g`
 
-** Onde: **
+**Onde:**
 
 *V = velocidade;
 
@@ -28,6 +28,6 @@ Use o método Math.sqrt() para obter a raiz quadrada.
 
 * d = distância percorrida pelo corpo em queda;
 
-### Dicas:
+**Dicas:**
 
-Use a altura ao invés de centímetros, como pede o problema em metros. Assim facilita o cálculo e evita conversões.
+> Use a altura ao invés de centímetros, como pede o problema em metros. Assim facilita o cálculo e evita conversões.
