@@ -30,4 +30,4 @@ Use o método Math.sqrt() para obter a raiz quadrada.
 
 **Dicas:**
 
-> Use a altura ao invés de centímetros, como pede o problema em metros. Assim facilita o cálculo e evita conversões.
+> Use a altura em  metros, ao invés de centímetros, como pede o problema. Assim facilita o cálculo e evita conversões.
