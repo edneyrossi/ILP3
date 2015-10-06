@@ -20,7 +20,7 @@ Use o método Math.sqrt() para obter a raiz quadrada.
 
 ** Onde: **
 
-*V = velocidade;
+* V = velocidade;
 
 * g = aceleração da gravidade;
 
