@@ -9,7 +9,7 @@ public class EquacaoSegundoGrau
 	{
 		//Inicio Entrada dados
 		
-		double a_in = 0, b_in = 0, c_in = 0, delta_out = 0;
+		double a_in = 0, b_in = 0, c_in = 0;
 		boolean sucesso = true; //tratamento de erro
 		Scanner lerbufferteclado = new Scanner(System.in);
 		
@@ -39,6 +39,7 @@ public class EquacaoSegundoGrau
 			{
 				System.err.println("Insira somente números reais!!!\nLetras são proibidas!!!\n");
 				lerbufferteclado.nextLine();
+				limpatela();
 			}
 		}
 	while(sucesso);
