@@ -30,12 +30,12 @@ Considere que a equação é escrita no seguinte formato:
 
 ### Dicas De Teste
 
-* Tente: x² – 2x – 3 = 0 *
+* Tente: x² – 2x – 3 = 0 
 
 > Respostas são 3 e -1
 
 
-* Tente:  x² + 8x + 16 *
+* Tente:  x² + 8x + 16 
 
 > Respostas são -4 e -4, ou seja, uma única raíz
 
