@@ -39,7 +39,6 @@ public class EquacaoSegundoGrau
 			{
 				System.err.println("Insira somente números reais!!!\nLetras são proibidas!!!\n");
 				lerbufferteclado.nextLine();
-				limpatela();
 			}
 		}
 	while(sucesso);
