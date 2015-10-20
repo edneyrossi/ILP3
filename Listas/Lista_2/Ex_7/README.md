@@ -25,7 +25,7 @@ Determine os valores escritos pelo println()
 
 **Linha 18**
 
-`P(a*b),a%b) = P(54*8,54%8) = 432 6 492`
+`P(a*b),a%b) = P(54*8,(54%8) = 432 6 492`
 
 **Resposta :**
 
