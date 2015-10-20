@@ -6,8 +6,6 @@ n e m serão parâmetros inteiros do seu método.
 
 **Segue Programação de 3 linhas e 4 colunas:** 
 
-****
-
-*  *
-
-****
+    ****
+    *  *
+    ****
