@@ -30,5 +30,7 @@ Determine os valores escritos pelo println()
 ** Resposta : **
 
 5 8 18
+
 7 29 54
+
 432 6 492
