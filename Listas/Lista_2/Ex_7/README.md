@@ -1,6 +1,6 @@
 ## Exercício 7
 
-**Esse exercício não necessita codificação, apesnas um teste de mesa**
+**Esse exercício não necessita codificação, apesnas um teste de mesa. ENTREGUE SOMENTE ESSE ARQUIVO!**
 
 
 Determine os valores escritos pelo println()
