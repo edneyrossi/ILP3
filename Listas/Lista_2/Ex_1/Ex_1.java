@@ -16,4 +16,11 @@ public class Ex_1
 
 		System.out.println("\n"+a+" "+b+" "+c+" "+d+" "+e);	
 	}
-}		
+}
+
+Saída:
+run:
+3 5 8 80 -10
+
+4 1 7 80 -10
+CONSTRUÍDO COM SUCESSO (tempo total: 0 segundos)
